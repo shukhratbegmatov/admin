@@ -12,32 +12,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Json/regions.json"
   },
   {
-    "revision": "31d9201096ab24dc203a",
-    "url": "/css/about.7e136814.css"
+    "revision": "061bfdc36d9d2f56af39",
+    "url": "/css/about.7c5942e3.css"
   },
   {
-    "revision": "75a132dd46308c7f3cfb",
-    "url": "/css/app.9aee812c.css"
+    "revision": "00119ffcca932f61ea13",
+    "url": "/css/app.0d360469.css"
   },
   {
     "revision": "394613e9a1f50660ffe5",
     "url": "/css/chunk-vendors.86dd1494.css"
   },
   {
+    "revision": "427edea8fb1062cdaa02e008799e12ad",
+    "url": "/img/logoheader.427edea8.png"
+  },
+  {
     "revision": "c94832e62f702c47cd697992ec514acf",
     "url": "/img/sport.c94832e6.jpg"
   },
   {
-    "revision": "9b6a8b3281f37e8f157993b355c68b54",
+    "revision": "bae6558a3556a3218c838192ed90468c",
     "url": "/index.html"
   },
   {
-    "revision": "31d9201096ab24dc203a",
-    "url": "/js/about.9983975f.js"
+    "revision": "061bfdc36d9d2f56af39",
+    "url": "/js/about.84842d10.js"
   },
   {
-    "revision": "75a132dd46308c7f3cfb",
-    "url": "/js/app.193f9129.js"
+    "revision": "00119ffcca932f61ea13",
+    "url": "/js/app.2d17917d.js"
   },
   {
     "revision": "394613e9a1f50660ffe5",
