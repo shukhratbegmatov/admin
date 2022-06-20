@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.7c5942e3.css"
   },
   {
-    "revision": "00119ffcca932f61ea13",
+    "revision": "e10f2054aacacb0d6dd7",
     "url": "/css/app.0d360469.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sport.c94832e6.jpg"
   },
   {
-    "revision": "bae6558a3556a3218c838192ed90468c",
+    "revision": "91d08ec588f032c292eade7cc550969f",
     "url": "/index.html"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.84842d10.js"
   },
   {
-    "revision": "00119ffcca932f61ea13",
-    "url": "/js/app.2d17917d.js"
+    "revision": "e10f2054aacacb0d6dd7",
+    "url": "/js/app.6b19ddc7.js"
   },
   {
     "revision": "394613e9a1f50660ffe5",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c95a58e206ecbc40049387e946a6e53d.js"
+  "/precache-manifest.c326da1e8ea930d241665d7e1d167719.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "5_tashabbus"});
